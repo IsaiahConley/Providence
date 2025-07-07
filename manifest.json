@@ -1,0 +1,10 @@
+﻿{
+	"name": "Playable Providence",
+	"version_number": "1.0",
+	"website_url": "https://github.com/IsaiahConley/Providence.git",
+	"description": "Adds Providence to the game with a unique moveset based off the bossfight",
+	"dependencies": [
+		"ReturnOfModding-ReturnOfModding-1.0.58",
+		"MGReturns-ENVY-1.2.0",
+	]
+}
